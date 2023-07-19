@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Admin-Service/Admin-Service.iml" filepath="$PROJECT_DIR$/../Admin-Service/Admin-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Api-gateway/Api-gateway.iml" filepath="$PROJECT_DIR$/../Api-gateway/Api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Authentication-server/auth-server.iml" filepath="$PROJECT_DIR$/../Authentication-server/auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blood and eye donation bank system.iml" filepath="$PROJECT_DIR$/blood and eye donation bank system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blood-organization/blood-organization.iml" filepath="$PROJECT_DIR$/../blood-organization/blood-organization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blood-user-service/blood-user-service.iml" filepath="$PROJECT_DIR$/../blood-user-service/blood-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../config-server/config-server.iml" filepath="$PROJECT_DIR$/../config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eye-organization/eye-organization.iml" filepath="$PROJECT_DIR$/../eye-organization/eye-organization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../server-registry-service/server-registry-service.iml" filepath="$PROJECT_DIR$/../server-registry-service/server-registry-service.iml" />
+    </modules>
+  </component>
+</project>

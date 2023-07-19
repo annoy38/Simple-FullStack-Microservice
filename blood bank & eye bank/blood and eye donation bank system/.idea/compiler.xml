@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eye-organization" />
+        <module name="server-registry-service" />
+        <module name="blood-user-service" />
+        <module name="config-server" />
+        <module name="Api-gateway" />
+        <module name="blood-organization" />
+        <module name="Admin-Service" />
+        <module name="auth-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Admin-Service" target="11" />
+      <module name="Api-gateway" target="11" />
+      <module name="auth-server" target="11" />
+      <module name="blood-organization" target="11" />
+      <module name="blood-user-service" target="11" />
+      <module name="config-server" target="11" />
+      <module name="eye-organization" target="11" />
+      <module name="server-registry-service" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Admin-Service" options="-parameters" />
+      <module name="Api-gateway" options="-parameters" />
+      <module name="auth-server" options="-parameters" />
+      <module name="blood-organization" options="-parameters" />
+      <module name="blood-user-service" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="eye-organization" options="-parameters" />
+      <module name="server-registry-service" options="-parameters" />
+    </option>
+  </component>
+</project>
